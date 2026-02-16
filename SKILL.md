@@ -1,6 +1,11 @@
 ---
 name: npm-solution-scout
 description: Intelligent npm package discovery and installation assistant. When users describe Node.js/JavaScript development problems, this skill searches the npm ecosystem, evaluates packages based on maintenance, security, and fit, recommends solutions, and optionally installs them after explicit confirmation.
+license: MIT
+metadata:
+  author: Lucas Olopes
+  version: "1.0.0"
+  repository: https://github.com/lucasolopes/npm-solution-scout
 ---
 
 # npm-solution-scout
