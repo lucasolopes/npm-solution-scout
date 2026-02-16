@@ -1,0 +1,10 @@
+{
+  "name": "npm-solution-scout",
+  "description": "Intelligent npm package discovery and installation assistant",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucas Olopes",
+    "email": "olopes.lucas567@gmail.com"
+  },
+  "license": "MIT"
+}

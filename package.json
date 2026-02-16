@@ -1,5 +1,5 @@
 {
-  "name": "@your-username/npm-solution-scout",
+  "name": "@lucasolopes/npm-solution-scout",
   "version": "1.0.0",
   "description": "Intelligent npm package discovery and installation assistant for Claude Code",
   "main": "SKILL.md",
@@ -13,7 +13,7 @@
     "node",
     "javascript"
   ],
-  "author": "Your Name",
+  "author": "Lucas Olopes",
   "license": "MIT",
   "files": [
     "SKILL.md",

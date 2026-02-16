@@ -1,0 +1,33 @@
+{
+  "name": "npm-solution-scout-marketplace",
+  "owner": {
+    "name": "Lucas Olopes",
+    "email": "olopes.lucas567@gmail.com",
+    "url": "https://github.com/lucasolopes"
+  },
+  "plugins": [
+    {
+      "name": "npm-solution-scout",
+      "version": "1.0.0",
+      "description": "Intelligent npm package discovery and installation assistant. When users describe Node.js/JavaScript development problems, this skill searches the npm ecosystem, evaluates packages based on maintenance, security, and fit, recommends solutions, and optionally installs them after explicit confirmation.",
+      "author": {
+        "name": "Lucas Olopes",
+        "email": "olopes.lucas567@gmail.com"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/lucasolopes/npm-solution-scout",
+      "repository": "https://github.com/lucasolopes/npm-solution-scout",
+      "source": "./plugins/npm-solution-scout",
+      "keywords": [
+        "npm",
+        "packages",
+        "discovery",
+        "node",
+        "javascript",
+        "package-manager",
+        "dependencies"
+      ],
+      "category": "development-tools"
+    }
+  ]
+}
