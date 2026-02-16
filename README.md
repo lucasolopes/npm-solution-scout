@@ -14,22 +14,16 @@ This skill helps you find, evaluate, and install the best npm packages for your 
 
 ## 📥 Installation
 
-### Option 1: Install from npm (once published)
+### Install from Smithery
 
 ```bash
-claude code skill install @your-username/npm-solution-scout
+npx @smithery/cli@latest skill add lucasolopes/npm-solution-scout
 ```
 
-### Option 2: Install from local directory
+### Install from Claude Code Marketplace (once published)
 
 ```bash
-claude code skill install /home/olopes/npm-solution-scout
-```
-
-### Option 3: Install from GitHub (once pushed)
-
-```bash
-claude code skill install github:YOUR_USERNAME/npm-solution-scout
+claude plugin marketplace add lucasolopes/npm-solution-scout
 ```
 
 ## 🚀 Usage
