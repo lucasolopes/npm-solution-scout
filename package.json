@@ -1,0 +1,25 @@
+{
+  "name": "@your-username/npm-solution-scout",
+  "version": "1.0.0",
+  "description": "Intelligent npm package discovery and installation assistant for Claude Code",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "claude-code-skill",
+    "npm",
+    "package-discovery",
+    "node",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "skill.json",
+    "scripts/",
+    "references/",
+    "README.md"
+  ]
+}

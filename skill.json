@@ -1,0 +1,13 @@
+{
+  "name": "npm-solution-scout",
+  "version": "1.0.0",
+  "description": "Intelligent npm package discovery and installation assistant",
+  "author": "Lucas Olopes",
+  "license": "MIT",
+  "skillPrompt": "SKILL.md",
+  "keywords": ["npm", "packages", "discovery", "node", "javascript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasolopes/npm-solution-scout"
+  }
+}
